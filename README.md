@@ -1,8 +1,8 @@
-# RockPaperScissors School Project By Deyan
+# GuessANumber School Project By Deyan
 This is a simple console based implementation of a game called "Guess A Number" written in C#.
 
 ## Live Demo:
-https://replit.com/@deo08mine/RockPaperScissors#Main.cs
+
 ## How to play:
 1. Run the application in a console.
 2. Follow the on-screen instructions to choose your move
